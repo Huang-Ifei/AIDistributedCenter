@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AIDistributedCenter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AIDistributedCenter_jar</output-path>
+    <root id="archive" name="AIDistributedCenter.jar">
+      <element id="module-output" name="AIDistributedCenter" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alibaba/fastjson2/fastjson2-extension/2.0.43/fastjson2-extension-2.0.43.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alibaba/fastjson/2.0.43/fastjson-2.0.43.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alibaba/fastjson2/fastjson2/2.0.43/fastjson2-2.0.43.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
